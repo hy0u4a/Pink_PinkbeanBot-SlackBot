@@ -11,7 +11,7 @@ namespace Pink_PinkbeanBot
     class LeagueOfLegends
     {
         #region Function
-        static string API = "RGAPI-ee256ffe-0c1f-4c7a-80a2-465e4dcf767e";
+        static string API = "";
         public static string summonerName;
 
         static string[] MatchDetail = new string[10];
